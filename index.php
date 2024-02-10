@@ -12,10 +12,10 @@
 <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title> Nexusolution Wordpress Themes </title>
+      <title> Mamata Beauti Parlour WordPress Theme </title>
 </head>
 <body>
-      <h1>Nexusolution Wordpress Themes </h1>
+      <h1>Mamata Beauti Parlour WordPress Theme </h1>
 </body>
 </html>
 
