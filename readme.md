@@ -31,5 +31,11 @@ Mamata WordPress Theme, Copyright 2024 [www.pradipchaudhary.com.np](https://prad
 ### Changelog
 
 -   **Initial release**
+<!--
 
-<!-- font Corinthia -->
+*   Theme Notes:-
+*
+*   Logo fonts -> font Corinthia
+*   theme ref-> https://htmldemo.net/peerly-v1/tf.html?storefront=envato-elements
+*
+*   -->
