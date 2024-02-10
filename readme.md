@@ -4,16 +4,26 @@
 
 "Mamata Beauti Parlour WordPress Theme" is a stylish and user-friendly theme designed specifically for beauty parlors, salons, and wellness centers.
 
-![](screenshort.png)
+## 🔗 Screenshot
+
+![](screenshot.png)
+
+## 🔗 Description
+
+"Mamata Beauti Parlour WordPress Theme" is a stylish and user-friendly theme designed specifically for beauty parlors, salons, and wellness centers.
 
 With a clean and modern aesthetic, this theme offers a professional look for your WordPress website, enhancing the online presence of beauty and spa businesses. Packed with customizable features, it allows easy branding and adaptation to individual preferences. The theme includes sections for services, testimonials, pricing, and a gallery to showcase your work, providing a seamless and engaging experience for visitors. Developed with WordPress best practices in mind, Mamata Beauti Parlour WordPress Theme is a versatile and responsive choice for beauty entrepreneurs seeking an attractive and functional online platform for their services.
 
-## 🚀 Get Started:
+## 🔗 Installation
 
-1. Clone or download this repository
-2. Follow the course modules in numerical order
-3. Explore code samples, complete exercises, and build your own themes
-4. Join our community for discussions, Q&A, and additional support
+1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
+2. Select 'Upload' and browser for theme zip file.
+3. Click on the 'Activate' button to use your new theme right away.
+4. Navigate to Appearance > Customize in your admin panel and customize to taste.
+
+## 🔗 Copyright
+
+Mamata WordPress Theme, Copyright 2024 [www.pradipchaudhary.com.np](https://pradipchaudhary.com.np/) Mamata is distributed under the terms of the GNU GPL
 
 ## Maintainer
 
