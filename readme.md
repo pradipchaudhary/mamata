@@ -37,5 +37,7 @@ Mamata WordPress Theme, Copyright 2024 [www.pradipchaudhary.com.np](https://prad
 *
 *   Logo fonts -> font Corinthia
 *   theme ref-> https://htmldemo.net/peerly-v1/tf.html?storefront=envato-elements
+*   theme ref2-> https://pro-theme.com/html/viasun/index.html?storefront=envato-elements
+*   theme ref2-> https://pro-theme.com/html/viasun/01_home-cosmetic.html
 *
 *   -->
