@@ -5,11 +5,11 @@
  * @package Mamata
  */
 
- include_once('header.php');
-
+get_header();
 ?>
 
-      <div class="content">content </div>
+<div class="content">content </div>
       
 <?php
-include_once('footer.php');
+
+get_footer();
