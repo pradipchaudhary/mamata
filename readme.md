@@ -35,9 +35,11 @@ Mamata WordPress Theme, Copyright 2024 [www.pradipchaudhary.com.np](https://prad
 
 *   Theme Notes:-
 *
+*   simple -> https://websitedemos.net/makeup-artist-04/
 *   Logo fonts -> font Corinthia
 *   theme ref-> https://htmldemo.net/peerly-v1/tf.html?storefront=envato-elements
 *   theme ref2-> https://pro-theme.com/html/viasun/index.html?storefront=envato-elements
 *   theme ref2-> https://pro-theme.com/html/viasun/01_home-cosmetic.html
+*   theme ref2-> https://websitedemos.net/hair-salon-04/
 *
 *   -->
