@@ -12,7 +12,7 @@
 
 <?php wp_footer(); ?>
 <footer>
-    <p>Footer</p>
+    <p>&copy; 2024 Mamata Beauti Parlour | All Rights Reserved</p>
 </footer>
 </body>
 
