@@ -18,17 +18,16 @@ get_header();
 
 ?>
 
-<div id="content" class="site-content <?php echo esc_attr($xe_opt->container); ?> padding-top-bottom clearfix">
+<div id="content" class="site-content padding-top-bottom clearfix">
 
     <div id="primary" class="content-area">
         <main id="main" class="site-main" role="main">
 
 
-
+            <h1>Main page </h1>
         </main><!-- #main -->
     </div><!-- #primary -->
 
-    <?php get_sidebar(); ?>
 
 </div><!-- #content -->
 
