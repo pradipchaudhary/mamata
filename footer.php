@@ -5,9 +5,15 @@
  * @package Mamata
  */
 
- ?>
+?>
 
-<footer>Footer </footer>
+
+
+
+<?php wp_footer(); ?>
+<footer>
+    <p>Footer</p>
+</footer>
 </body>
-</html>
 
+</html>
