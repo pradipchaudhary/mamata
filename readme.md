@@ -2,12 +2,12 @@
 
 [![Project Status: Active.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
--   Requires at least: WordPress 4.7
--   Tested up to: WordPress 4.9
--   Version: 1.0.0
--   License: GPLv2 or later
--   License URI: http://www.gnu.org/licenses/gpl-2.0.html
--   Tags: two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, - footer-widgets, post-formats, theme-options
+-  Requires at least: WordPress 4.7
+-  Tested up to: WordPress 4.9
+-  Version: 1.0.0
+-  License: GPLv2 or later
+-  License URI: http://www.gnu.org/licenses/gpl-2.0.html
+-  Tags: two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, - footer-widgets, post-formats, theme-options
 
 ## Screenshot
 
@@ -30,16 +30,16 @@ Mamata WordPress Theme, Copyright 2024 [www.pradipchaudhary.com.np](https://prad
 
 ### Changelog
 
--   **Initial release**
+-  **Initial release**
 <!--
 
-*   Theme Notes:-
+*  Theme Notes:-
 *
-*   simple -> https://websitedemos.net/makeup-artist-04/
-*   Logo fonts -> font Corinthia
-*   theme ref-> https://htmldemo.net/peerly-v1/tf.html?storefront=envato-elements
-*   theme ref2-> https://pro-theme.com/html/viasun/index.html?storefront=envato-elements
-*   theme ref2-> https://pro-theme.com/html/viasun/01_home-cosmetic.html
-*   theme ref2-> https://websitedemos.net/hair-salon-04/
+*  simple -> https://websitedemos.net/makeup-artist-04/
+*  Logo fonts -> font Corinthia
+*  theme ref-> https://htmldemo.net/peerly-v1/tf.html?storefront=envato-elements
+*  theme ref2-> https://pro-theme.com/html/viasun/index.html?storefront=envato-elements
+*  theme ref2-> https://pro-theme.com/html/viasun/01_home-cosmetic.html
+*  theme ref2-> https://websitedemos.net/hair-salon-04/
 *
-*   -->
+*  -->
