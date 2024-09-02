@@ -22,15 +22,15 @@
 
 ## 🌟 **Key Features**
 
--   **Stunning Responsive Design:** Ensures flawless display across all devices, providing an optimal browsing experience whether on mobile, tablet, or desktop.
--   **Powerful Customization:** Effortlessly personalize your site with an array of layout options, color palettes, and typography settings. No coding skills required!
--   **Comprehensive Service Pages:** Showcase your services with beautifully designed sections tailored for beauty treatments, spa services, and wellness packages.
--   **Client Testimonials:** Build credibility and trust with potential clients by displaying glowing reviews in a sleek testimonial slider.
--   **Elegant Pricing Tables:** Present your pricing in a clear, attractive, and organized manner, helping clients understand your offerings at a glance.
--   **Captivating Galleries:** Display your portfolio, treatments, or product range with stunning, customizable image galleries that draw visitors in.
--   **WooCommerce Ready:** Seamlessly integrate with WooCommerce to transform your website into a full-featured online store, ready to sell beauty products, gift cards, and more.
--   **SEO & Speed Optimized:** Built with best practices to enhance your search engine rankings and ensure fast loading times, keeping users engaged and improving your site's visibility.
--   **One-Click Demo Import:** Get your site up and running in minutes with our one-click demo import feature, allowing you to easily replicate the demo site.
+-   [**Stunning Responsive Design:**](#) Ensures flawless display across all devices, providing an optimal browsing experience whether on mobile, tablet, or desktop.
+-   [**Powerful Customization:**](#) Effortlessly personalize your site with an array of layout options, color palettes, and typography settings. No coding skills required!
+-   [**Comprehensive Service Pages:**](#) Showcase your services with beautifully designed sections tailored for beauty treatments, spa services, and wellness packages.
+-   [**Client Testimonials:**](#) Build credibility and trust with potential clients by displaying glowing reviews in a sleek testimonial slider.
+-   [**Elegant Pricing Tables:**](#) Present your pricing in a clear, attractive, and organized manner, helping clients understand your offerings at a glance.
+-   [**Captivating Galleries:**](#) Display your portfolio, treatments, or product range with stunning, customizable image galleries that draw visitors in.
+-   [**WooCommerce Ready:**](#) Seamlessly integrate with WooCommerce to transform your website into a full-featured online store, ready to sell beauty products, gift cards, and more.
+-   [**SEO & Speed Optimized:**](#) Built with best practices to enhance your search engine rankings and ensure fast loading times, keeping users engaged and improving your site's visibility.
+-   [**One-Click Demo Import:**](#) Get your site up and running in minutes with our one-click demo import feature, allowing you to easily replicate the demo site.
 
 ---
 
