@@ -1,10 +1,10 @@
 /*
-Theme Name: mamata
+Theme Name: Mamata - Beauty Salon & Wellness WordPress Theme
 Theme URI: https://pradipchaudhary.com.np/
 Author: Pradip Chaudhary
 Author URI: https://pradipchaudhary.com.np/
-Description: "Mamata Beauti Parlour WordPress Theme" is a stylish, user-friendly theme designed for beauty businesses.
-Tags: blog, theme
+Description: "Mamata - Beauty Salon & Wellness WordPress Theme" is a stylish, user-friendly theme designed for beauty businesses. Ideal for salons, spas, wellness centers, and cosmetic shops, it features customizable layouts, service showcases, a gallery, and WooCommerce integration.
+Tags: beauty, salon, spa, wellness, custom-logo, custom-colors, custom-header, custom-menu, featured-images, theme-options
 Version: 1.0
 Requires at least: 5.0
 Tested up to: 5.4
@@ -12,6 +12,122 @@ Requires PHP: 7.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: mamata
+
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+a {
+    color: #c59d5f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b2894b;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.site-header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.site-title {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.site-navigation {
+    margin-top: 20px;
+}
+
+.nav-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-menu li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.nav-menu a {
+    color: #fff;
+    font-weight: bold;
+}
+
+.site-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.site-footer p {
+    margin: 0;
+}
+
+.entry-header {
+    margin-bottom: 20px;
+}
+
+.entry-title {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.entry-content {
+    margin-bottom: 20px;
+}
+
+.widget {
+    margin-bottom: 20px;
+}
+
+.widget-title {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+.services,
+.gallery {
+    margin: 40px 0;
+}
+
+.services h2,
+.gallery h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
